@@ -44,7 +44,7 @@ Try the live version:
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/your-username/ecommerce-api-server.git](https://github.com/AbdulFatahChandio/E-Commerce-BackEnd-Aptech)
+git clone [https://github.com/AbdulFatahChandio/E-Commerce-BackEnd-Aptech]
 cd ecommerce-api-server
 npm install
 
