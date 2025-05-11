@@ -48,5 +48,5 @@ git clone [https://github.com/your-username/ecommerce-api-server.git](https://gi
 cd ecommerce-api-server
 npm install
 
-cd ecommerce-api-server
+cd E-Commerce-BackEnd-Aptech
 npm install
