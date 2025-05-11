@@ -38,7 +38,7 @@ This is a Node.js Express-based REST API for an E-commerce system, supporting op
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ecommerce-api-server.git
+git clone [https://github.com/your-username/ecommerce-api-server.git](https://github.com/AbdulFatahChandio/E-Commerce-BackEnd-Aptech)
 cd ecommerce-api-server
 npm install
 
